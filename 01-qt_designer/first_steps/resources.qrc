@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file alias="penguin.png">../../fugue-icons-3.5.6/icons/animal-penguin.png</file>
+        <file alias="monkey.png">../../fugue-icons-3.5.6/icons/animal-monkey.png</file>
+    </qresource>
+</RCC>
